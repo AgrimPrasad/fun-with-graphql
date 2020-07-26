@@ -1,0 +1,16 @@
+{
+  "name": "fun-with-graphql",
+  "version": "1.0.0",
+  "description": "GraphQL experiments",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": "git@github.com:AgrimPrasad/fun-with-graphql.git",
+  "author": "Agrim Prasad <AgrimPrasad@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
